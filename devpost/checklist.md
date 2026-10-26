@@ -82,3 +82,4 @@ Activity mode:
 
 ## Revisions
 - Added `lib/widgets/question_card.dart` (question card, highlighted-stem renderer, explanation box) — shared by practice cards and the upcoming review screen; not listed in the spec file tree.
+- Moved launcher icon + "DrillDeck" app label from slice 5 into slice 1 — learner asked to see their icon at the first checkpoint. The icon's white corners were filled blue (`assets/icon/icon_square.png`) and an adaptive foreground made (`assets/icon/icon_foreground.png`) so Android's icon mask shows no white box.
