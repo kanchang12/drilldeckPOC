@@ -1,0 +1,567 @@
+{
+  "id": 1,
+  "title": "English Test 1",
+  "durationMinutes": 50,
+  "questions": [
+    {
+      "id": "t01q01",
+      "type": "error_spotting",
+      "stem": "Neither of the two candidates who appeared for the interview were found suitable for the post.",
+      "options": [
+        "Neither of the two candidates",
+        "who appeared for the interview",
+        "were found suitable",
+        "for the post.",
+        "No error"
+      ],
+      "answer": 2,
+      "explanation": "'Neither of' refers to one of two people and takes a singular verb. Correct: 'was found suitable'."
+    },
+    {
+      "id": "t01q02",
+      "type": "error_spotting",
+      "stem": "The manager along with his assistants have gone to the head office to attend the quarterly review meeting.",
+      "options": [
+        "The manager along with his assistants",
+        "have gone to the head office",
+        "to attend the quarterly",
+        "review meeting.",
+        "No error"
+      ],
+      "answer": 1,
+      "explanation": "The subject is 'The manager'. Words joined by 'along with' do not change the number of the subject. Correct: 'has gone'."
+    },
+    {
+      "id": "t01q03",
+      "type": "error_spotting",
+      "stem": "He is one of those officers who has always put the interest of customers above everything else.",
+      "options": [
+        "He is one of those officers",
+        "who has always",
+        "put the interest of customers",
+        "above everything else.",
+        "No error"
+      ],
+      "answer": 1,
+      "explanation": "'Who' refers to 'those officers' (plural), so the verb must be plural. Correct: 'who have always'."
+    },
+    {
+      "id": "t01q04",
+      "type": "error_spotting",
+      "stem": "Hardly had the bank opened its doors in the morning than a long queue formed outside the counter.",
+      "options": [
+        "Hardly had the bank opened",
+        "its doors in the morning",
+        "than a long queue",
+        "formed outside the counter.",
+        "No error"
+      ],
+      "answer": 2,
+      "explanation": "'Hardly' and 'scarcely' are followed by 'when', not 'than'. Correct: 'when a long queue'."
+    },
+    {
+      "id": "t01q05",
+      "type": "error_spotting",
+      "stem": "The committee has submitted its report to the chairman after discussing the issue for over three months.",
+      "options": [
+        "The committee has submitted",
+        "its report to the chairman",
+        "after discussing the issue",
+        "for over three months.",
+        "No error"
+      ],
+      "answer": 4,
+      "explanation": "The sentence is correct. 'Committee' acting as one body takes the singular 'has' and 'its'."
+    },
+    {
+      "id": "t01q06",
+      "type": "error_spotting",
+      "stem": "If I would have known about the change in schedule, I would have informed all the branch managers.",
+      "options": [
+        "If I would have known",
+        "about the change in schedule,",
+        "I would have informed",
+        "all the branch managers.",
+        "No error"
+      ],
+      "answer": 0,
+      "explanation": "In a past unreal condition, the 'if' clause uses the past perfect. Correct: 'If I had known'."
+    },
+    {
+      "id": "t01q07",
+      "type": "error_spotting",
+      "stem": "The number of customers using mobile banking have increased sharply over the last two years.",
+      "options": [
+        "The number of customers",
+        "using mobile banking",
+        "have increased sharply",
+        "over the last two years.",
+        "No error"
+      ],
+      "answer": 2,
+      "explanation": "'The number of' takes a singular verb ('a number of' takes a plural one). Correct: 'has increased'."
+    },
+    {
+      "id": "t01q08",
+      "type": "error_spotting",
+      "stem": "She insisted on me attending the training programme before the end of the month.",
+      "options": [
+        "She insisted on",
+        "me attending the training",
+        "programme before",
+        "the end of the month.",
+        "No error"
+      ],
+      "answer": 1,
+      "explanation": "A noun or pronoun before a gerund should be possessive. Correct: 'my attending'."
+    },
+    {
+      "id": "t01q09",
+      "type": "error_spotting",
+      "stem": "Each of the clerks were asked to verify the cash balance before closing the counter.",
+      "options": [
+        "Each of the clerks",
+        "were asked to verify",
+        "the cash balance",
+        "before closing the counter.",
+        "No error"
+      ],
+      "answer": 1,
+      "explanation": "'Each of' takes a singular verb. Correct: 'was asked to verify'."
+    },
+    {
+      "id": "t01q10",
+      "type": "error_spotting",
+      "stem": "The loan was sanctioned without the borrower having to furnish any collateral security.",
+      "options": [
+        "The loan was sanctioned",
+        "without the borrower",
+        "having to furnish",
+        "any collateral security.",
+        "No error"
+      ],
+      "answer": 4,
+      "explanation": "The sentence is correct. 'Without the borrower having to furnish' is a proper gerund construction."
+    },
+    {
+      "id": "t01q11",
+      "type": "error_spotting",
+      "stem": "He has been working in this branch since five years and knows every customer.",
+      "options": [
+        "He has been working",
+        "in this branch",
+        "since five years",
+        "and knows every customer.",
+        "No error"
+      ],
+      "answer": 2,
+      "explanation": "'Since' is used with a point of time; 'for' is used with a period of time. Correct: 'for five years'."
+    },
+    {
+      "id": "t01q12",
+      "type": "error_spotting",
+      "stem": "Unless you do not submit the required documents, your application cannot be processed.",
+      "options": [
+        "Unless you do not submit",
+        "the required documents,",
+        "your application",
+        "cannot be processed.",
+        "No error"
+      ],
+      "answer": 0,
+      "explanation": "'Unless' already means 'if not', so adding 'do not' makes a double negative. Correct: 'Unless you submit'."
+    },
+    {
+      "id": "t01q13",
+      "type": "error_spotting",
+      "stem": "The scheme will be beneficial for farmers who have small landholdings and lacks access to credit.",
+      "options": [
+        "The scheme will be beneficial",
+        "for farmers who",
+        "have small landholdings",
+        "and lacks access to credit.",
+        "No error"
+      ],
+      "answer": 3,
+      "explanation": "Both verbs refer to 'farmers' (plural). Correct: 'and lack access to credit'."
+    },
+    {
+      "id": "t01q14",
+      "type": "error_spotting",
+      "stem": "Despite of the heavy rain, most of the employees reached the office on time.",
+      "options": [
+        "Despite of the heavy rain,",
+        "most of the employees",
+        "reached the office",
+        "on time.",
+        "No error"
+      ],
+      "answer": 0,
+      "explanation": "'Despite' is never followed by 'of' ('in spite of' is). Correct: 'Despite the heavy rain'."
+    },
+    {
+      "id": "t01q15",
+      "type": "sentence_correction",
+      "stem": "The officer **has went** to the regional office for a meeting.",
+      "options": [
+        "had went",
+        "has go",
+        "has gone",
+        "have gone",
+        "No correction required"
+      ],
+      "answer": 2,
+      "explanation": "The present perfect is 'has/have' + past participle. The past participle of 'go' is 'gone', and 'officer' is singular: 'has gone'."
+    },
+    {
+      "id": "t01q16",
+      "type": "sentence_correction",
+      "stem": "**Being a holiday**, the bank remained closed.",
+      "options": [
+        "Having a holiday",
+        "It being a holiday",
+        "Since being a holiday",
+        "Because a holiday",
+        "No correction required"
+      ],
+      "answer": 1,
+      "explanation": "'Being a holiday' wrongly suggests that the bank was a holiday (a dangling participle). An absolute phrase with its own subject fixes it: 'It being a holiday'."
+    },
+    {
+      "id": "t01q17",
+      "type": "sentence_correction",
+      "stem": "The new manager is **more stricter than** the previous one.",
+      "options": [
+        "most stricter than",
+        "stricter than",
+        "more strict then",
+        "strictest than",
+        "No correction required"
+      ],
+      "answer": 1,
+      "explanation": "'Stricter' is already comparative; adding 'more' makes a double comparative. Correct: 'stricter than'."
+    },
+    {
+      "id": "t01q18",
+      "type": "sentence_correction",
+      "stem": "He **prefers tea than** coffee.",
+      "options": [
+        "prefers tea over than",
+        "prefer tea than",
+        "is preferring tea to",
+        "prefers tea to",
+        "No correction required"
+      ],
+      "answer": 3,
+      "explanation": "'Prefer' is followed by 'to', not 'than'. 'Prefer' is a stative verb, so the simple present 'prefers' is right."
+    },
+    {
+      "id": "t01q19",
+      "type": "sentence_correction",
+      "stem": "The customers **were requested to** maintain silence in the banking hall.",
+      "options": [
+        "were requested for",
+        "requested to",
+        "were requesting to",
+        "was requested to",
+        "No correction required"
+      ],
+      "answer": 4,
+      "explanation": "The sentence is correct: plural subject 'customers', passive 'were requested', followed by the infinitive 'to maintain'."
+    },
+    {
+      "id": "t01q20",
+      "type": "sentence_correction",
+      "stem": "I **look forward to meet** you at the conference.",
+      "options": [
+        "look forward for meeting",
+        "look forward to meeting",
+        "am looking forward to meet",
+        "look forward meeting",
+        "No correction required"
+      ],
+      "answer": 1,
+      "explanation": "In 'look forward to', 'to' is a preposition, so it takes a gerund. Correct: 'look forward to meeting'."
+    },
+    {
+      "id": "t01q21",
+      "type": "sentence_correction",
+      "stem": "**Scarcely had he reached** the station when the train left.",
+      "options": [
+        "Scarcely he had reached",
+        "Scarcely did he reached",
+        "Scarcely has he reached",
+        "Scarcely he reached",
+        "No correction required"
+      ],
+      "answer": 4,
+      "explanation": "The sentence is correct. 'Scarcely' at the start takes an inverted past perfect ('had he reached') and is followed by 'when'."
+    },
+    {
+      "id": "t01q22",
+      "type": "sentence_correction",
+      "stem": "The teacher made the students **to rewrite** the essay.",
+      "options": [
+        "rewriting",
+        "rewrite",
+        "to be rewriting",
+        "for rewriting",
+        "No correction required"
+      ],
+      "answer": 1,
+      "explanation": "'Make' in the active voice takes a bare infinitive (without 'to'). Correct: 'made the students rewrite'."
+    },
+    {
+      "id": "t01q23",
+      "type": "sentence_correction",
+      "stem": "**Ten kilometres are** a long distance to walk every day.",
+      "options": [
+        "Ten kilometre is",
+        "Ten kilometres were",
+        "Ten kilometres is",
+        "Ten kilometre are",
+        "No correction required"
+      ],
+      "answer": 2,
+      "explanation": "A plural amount of distance, money or time treated as a single quantity takes a singular verb. Correct: 'Ten kilometres is'."
+    },
+    {
+      "id": "t01q24",
+      "type": "sentence_correction",
+      "stem": "She **has been living** in Pune since 2015.",
+      "options": [
+        "is living",
+        "lives",
+        "has lived from",
+        "was living",
+        "No correction required"
+      ],
+      "answer": 4,
+      "explanation": "The sentence is correct. An action that began in the past and continues now, used with 'since', takes the present perfect continuous."
+    },
+    {
+      "id": "t01q25",
+      "type": "sentence_correction",
+      "stem": "**The rich is** not always happy.",
+      "options": [
+        "A rich are",
+        "Rich is",
+        "The riches are",
+        "The rich are",
+        "No correction required"
+      ],
+      "answer": 3,
+      "explanation": "'The' + adjective (the rich, the poor) refers to a class of people and takes a plural verb. Correct: 'The rich are'."
+    },
+    {
+      "id": "t01q26",
+      "type": "sentence_correction",
+      "stem": "We discussed **about the proposal** at length.",
+      "options": [
+        "on the proposal",
+        "the proposal",
+        "over the proposal",
+        "regarding about the proposal",
+        "No correction required"
+      ],
+      "answer": 1,
+      "explanation": "'Discuss' is a transitive verb and takes a direct object without a preposition. Correct: 'discussed the proposal'."
+    },
+    {
+      "id": "t01q27",
+      "type": "sentence_correction",
+      "stem": "**Though he worked hard, but** he could not clear the exam.",
+      "options": [
+        "Though he worked hard, yet",
+        "Although he worked hard but",
+        "Though he worked hard, so",
+        "Despite he worked hard,",
+        "No correction required"
+      ],
+      "answer": 0,
+      "explanation": "'Though/although' is not paired with 'but'. The accepted correlative pair is 'though ... yet'."
+    },
+    {
+      "id": "t01q28",
+      "type": "fill_blank",
+      "stem": "The RBI has decided to keep the repo rate _____ for the third consecutive time.",
+      "options": [
+        "stagnated",
+        "unchanged",
+        "fixedly",
+        "unaltering",
+        "constantly"
+      ],
+      "answer": 1,
+      "explanation": "To 'keep something unchanged' means to leave it at the same level. The other words are the wrong form or meaning here."
+    },
+    {
+      "id": "t01q29",
+      "type": "fill_blank",
+      "stem": "The company had to _____ its expansion plans due to a shortage of funds.",
+      "options": [
+        "shell",
+        "shove",
+        "shelve",
+        "shelf",
+        "shield"
+      ],
+      "answer": 2,
+      "explanation": "To 'shelve' a plan means to postpone it or set it aside. 'Shelf' is a noun, and the others don't fit the meaning."
+    },
+    {
+      "id": "t01q30",
+      "type": "fill_blank",
+      "stem": "She is very good _____ solving puzzles.",
+      "options": [
+        "in",
+        "at",
+        "on",
+        "for",
+        "with"
+      ],
+      "answer": 1,
+      "explanation": "'Good at' is the correct preposition for skill in an activity."
+    },
+    {
+      "id": "t01q31",
+      "type": "fill_blank",
+      "stem": "The bank will not be _____ for any loss arising from the misuse of your PIN.",
+      "options": [
+        "likely",
+        "liberal",
+        "reliable",
+        "liable",
+        "libel"
+      ],
+      "answer": 3,
+      "explanation": "'Liable for' means legally responsible for. 'Reliable' means dependable, and 'libel' is written defamation."
+    },
+    {
+      "id": "t01q32",
+      "type": "fill_blank",
+      "stem": "The thief was caught red-_____ by the security guard.",
+      "options": [
+        "faced",
+        "footed",
+        "eyed",
+        "headed",
+        "handed"
+      ],
+      "answer": 4,
+      "explanation": "The idiom 'caught red-handed' means caught in the act of doing something wrong."
+    },
+    {
+      "id": "t01q33",
+      "type": "fill_blank",
+      "stem": "Despite repeated reminders, he _____ to pay the instalment.",
+      "options": [
+        "failed",
+        "lacked",
+        "missed",
+        "lost",
+        "denied"
+      ],
+      "answer": 0,
+      "explanation": "'Fail to do something' means not to do it. 'Missed' would need a noun object ('missed the instalment'), not 'to pay'."
+    },
+    {
+      "id": "t01q34",
+      "type": "fill_blank",
+      "stem": "The new scheme is aimed _____ helping first-time entrepreneurs.",
+      "options": [
+        "to",
+        "on",
+        "at",
+        "for",
+        "with"
+      ],
+      "answer": 2,
+      "explanation": "The correct collocation is 'aimed at' + gerund."
+    },
+    {
+      "id": "t01q35",
+      "type": "fill_blank",
+      "stem": "Hard work is the key _____ success.",
+      "options": [
+        "of",
+        "by",
+        "in",
+        "to",
+        "on"
+      ],
+      "answer": 3,
+      "explanation": "The idiom is 'the key to' something, meaning the means of achieving it."
+    },
+    {
+      "id": "t01q36",
+      "type": "fill_blank",
+      "stem": "The meeting was called _____ because the chairman was unwell.",
+      "options": [
+        "on",
+        "off",
+        "up",
+        "in",
+        "at"
+      ],
+      "answer": 1,
+      "explanation": "'Call off' means cancel, which fits the reason given."
+    },
+    {
+      "id": "t01q37",
+      "type": "fill_blank",
+      "stem": "Customers are advised to _____ their passwords regularly.",
+      "options": [
+        "exchange",
+        "interchange",
+        "change",
+        "convert",
+        "transfer"
+      ],
+      "answer": 2,
+      "explanation": "You 'change' a password. 'Exchange' and 'interchange' involve swapping with something else."
+    },
+    {
+      "id": "t01q38",
+      "type": "fill_blank",
+      "stem": "She was _____ by the news of her promotion.",
+      "options": [
+        "deflated",
+        "elevated",
+        "eluded",
+        "alleviated",
+        "elated"
+      ],
+      "answer": 4,
+      "explanation": "'Elated' means very happy. 'Deflated' is the opposite, and 'elevated' means raised."
+    },
+    {
+      "id": "t01q39",
+      "type": "fill_blank",
+      "stem": "The auditor found several _____ in the accounts.",
+      "options": [
+        "discretions",
+        "discrepancies",
+        "disparages",
+        "dispensations",
+        "discourses"
+      ],
+      "answer": 1,
+      "explanation": "'Discrepancies' are mismatches between figures that should agree, which is exactly what an auditor looks for."
+    },
+    {
+      "id": "t01q40",
+      "type": "fill_blank",
+      "stem": "He spoke so softly that I could _____ hear him.",
+      "options": [
+        "hard",
+        "harder",
+        "hardness",
+        "hardly",
+        "hardy"
+      ],
+      "answer": 3,
+      "explanation": "'Hardly' means almost not. 'Hard' as an adverb means 'with effort', which reverses the meaning."
+    }
+  ]
+}
